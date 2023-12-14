@@ -6,7 +6,9 @@ It’s a simple project to hands on your first dashboard in google looker studio
 In this dashboard we can extracted :
 
  **The Top countries in revenue are**: the United States of America in the first,followed by Canada and Nigeria in the second and the third.
+ 
  **The top cities in revenue are**: Penngrove , Plymouth , Dorr , Ibadan , Toronto and Norfolk respectively  so if we can invest in these countries.
+ 
 **The lowest countries in revenue are**: Philippines , Portogal , Ausrallia ,South Africa so we should solve the business problems in these countries as make a new camp in there or make different offers or discounts in there.
    **Marketing specialists can help us in this.
 
