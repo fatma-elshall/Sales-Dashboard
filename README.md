@@ -16,10 +16,14 @@ In this dashboard we can extracted :
 
    **Top products in sales revenue**: was the product with the code  P010.
 
+**In summary ** sales analysis will help you to  know your strengths and weaknesses and how to deal with them to develop your business. 
+
+
   **You can see the dashboard in this link:** https://lookerstudio.google.com/reporting/ff81399d-828b-4890-abc0-46fd6531746d
 
 
   **I will be happy with any comment or criticism from you.**
+
   **Thank you**
 ![sales dashboard2022-2021](https://github.com/fatma-elshall/Sales-Dashboard/assets/90958050/eca203e5-1bcb-40ab-a0b8-302b957d5e99)
 
